@@ -25,6 +25,8 @@ The main LOS-to-NLOS experiments use the **DroneRFb-DIR** dataset, which contain
 
 - Dataset page: https://www.scidb.cn/en/detail?dataSetId=84cf9101e739402784b1396783881202
 - Dataset paper: https://doi.org/10.11999/JEIT240804
+- Citation
+J. Ren, N. Yu, C. Zhou, Z. Shi and J. Chen, ``DroneRFb-DIR: An RF Signal Dataset for Non-cooperative Drone Individual Identification,'' \emph{J. Electron. Inf. Technol.}, vol. 47, no. 3, pp. 573--581, 2025.
 
 ### Hovering UAVs RF Fingerprinting Dataset
 
@@ -37,7 +39,7 @@ Please follow the licenses and usage policies specified by the original dataset 
 ## Citation
 
 ```bibtex
-@unpublished{cai_low_rank_aware_dg,
+@unpublished{LRA_SDG,
   title  = {Low-Rank-Aware Domain Generalization for Channel-Robust Multi-Granularity UAV Identification},
   author = {Cai, Zhenxin and Wang, Yu and Li, Jingyuan and Sha, Jin},
   note   = {Manuscript submitted to IEEE Internet of Things Journal}
